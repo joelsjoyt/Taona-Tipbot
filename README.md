@@ -37,11 +37,9 @@ https://discordapp.com/oauth2/authorize?client_id=INSERT_CLIENT_ID_HERE&scope=bo
 
 ## Edit Files
 
-1) Edit and rename `ecosystem.config.js.example` to `ecosystem.config.js` in the root folder to match the correct directories for log files and bot root folder.
+1) Edit `default.json` in `/config`. and set username and password as for connecting to Taona wallet core
 
-2) Edit `default.json` in `/config`. and set username and password as for connecting to Taona wallet core
-
-3) set up the wallets config file
+2) set up the wallets config file
 
     1) In most cases, your wallets data folder can be found in `%appdata%`
 
