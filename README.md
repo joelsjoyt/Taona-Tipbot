@@ -39,20 +39,7 @@ https://discordapp.com/oauth2/authorize?client_id=INSERT_CLIENT_ID_HERE&scope=bo
 
 1) Edit and rename `ecosystem.config.js.example` to `ecosystem.config.js` in the root folder to match the correct directories for log files and bot root folder.
 
-2) Edit and rename `default.json.example` to `default.json` in `/config`. You will use the same info in the next step.
-
-    ```
-    "rvn": {
-      "paytxfee": .01
-      "config":
-        "port": 3335,
-        "user": "username",
-        "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"
-      }
-    },
-    ```
-
-    (you can add more coins by following this format and using the `exampleTipper.js` file in `/bot/modules`)
+2) Edit `default.json` in `/config`. and set username and password as for connecting to Taona wallet core
 
 3) set up the wallets config file
 
@@ -89,9 +76,7 @@ https://discordapp.com/oauth2/authorize?client_id=INSERT_CLIENT_ID_HERE&scope=bo
 
 ### Auto - Windows
 
-1) run the `windows-install.bat` file to install needed tools, Not on windows or don't want to auto install follow the instructions below for manual Installation.
-
-2) verify the following tools are installed by running the commands below in cmd:
+1) verify the following tools are installed by running the commands below in cmd:
 
       * git - `git --version`
       * node - `node -v`
@@ -99,7 +84,7 @@ https://discordapp.com/oauth2/authorize?client_id=INSERT_CLIENT_ID_HERE&scope=bo
           * pm2 - `pm2 -v`
           * yarn - `yarn --version`
 
-3) start the bot with `yarn start` or `pm2 start ecosystem.config.js` in the bots root directory
+2) start the bot with `yarn start`  in the bots root directory
 
     1) if the bot fails to start and throws missing npm package errors simply run `npm install` again in the bots root directory
 
