@@ -52,7 +52,7 @@ https://discordapp.com/oauth2/authorize?client_id=INSERT_CLIENT_ID_HERE&scope=bo
         par=1
         rpcbind=127.0.0.1
         rpcallowip=127.0.0.1
-        rpcport=3335
+        rpcport=9050
         rpcuser=<Same-as-you-set-in-config.json>
         rpcpassword=<Same-as-you-set-in-config.json>
         rpcclienttimeout=30
