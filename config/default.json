@@ -1,7 +1,7 @@
 {
 
   "bot": {
-      "token":"NzY4OTQ0NzkwMTA4MTEwODY4.X5H1pA.LBw6rS3lTfjH4jKLFou8BsVXvcQ",
+      "token":"",
       "prefix": "!",
       "debug": true
   },
@@ -105,8 +105,8 @@
     "paytxfee": 0.01,
     "config": {
       "port": 9050,
-      "user": "TNAGOESALLTHEWAY",
-      "pass": "v&WJ99wPkAbL%fSs"
+      "user": "T",
+      "pass": ""
     }
   },
   
