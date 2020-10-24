@@ -56,9 +56,9 @@ https://discordapp.com/oauth2/authorize?client_id=INSERT_CLIENT_ID_HERE&scope=bo
         rpcuser=<Same-as-you-set-in-config.json>
         rpcpassword=<Same-as-you-set-in-config.json>
         rpcclienttimeout=30
-        rpcthreads=<Number-of-Threads>
+        rpcthreads=50
         rpcworkqueue=1000
-        paytxfee=<Amount-to-always-pay-tx-fee>
+        paytxfee=0.01
         ```
 
         1) NOTE: for `paytxfee` to actually work properly use the console or rpc command `settxfee number` number being the fee of course.
