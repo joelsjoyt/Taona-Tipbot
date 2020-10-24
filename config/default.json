@@ -1,11 +1,7 @@
 {
 
   "bot": {
-<<<<<<< HEAD
       "token":"Your Discord Bot Token ID",
-=======
-      "token":"",
->>>>>>> 3444403b445de7defc0d06cb353a20a411b29893
       "prefix": "!",
       "debug": true
   },
@@ -13,14 +9,9 @@
     "paytxfee": 0.01,
     "config": {
       "port": 9050,
-<<<<<<< HEAD
       "user": "USERNAME",
       "pass": "PASSWORD"
-=======
-      "user": "T",
-      "pass": ""
->>>>>>> 3444403b445de7defc0d06cb353a20a411b29893
-    }
+     }
   },
   
   "moderation":{
