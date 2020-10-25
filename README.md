@@ -5,8 +5,8 @@ Features:
 - Tipbot for any coin running the bitcoind client.
     - Help message `!tip`.
 - Dynamic plugin loading with permission support.
-
-    - Taona Coin (TNA)
+- **Supported Coin**
+    - DTaona Coin (TNA)
     
 
 
