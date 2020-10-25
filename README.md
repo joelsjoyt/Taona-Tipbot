@@ -6,7 +6,7 @@ Features:
     - Help message `!tip`.
 - Dynamic plugin loading with permission support.
 - **Supported Coin**
-    - DTaona Coin (TNA)
+    - Taona Coin (TNA)
     
 
 
