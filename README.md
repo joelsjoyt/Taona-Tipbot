@@ -47,7 +47,7 @@ https://discordapp.com/oauth2/authorize?client_id=INSERT_CLIENT_ID_HERE&scope=bo
         rpcuser=<Same-as-you-set-in-config.json>
         rpcpassword=<Same-as-you-set-in-config.json>
         rpcclienttimeout=30
-        rpcthreads=50
+        rpcthreads=4
         rpcworkqueue=1000
         paytxfee=0.01
         ```
