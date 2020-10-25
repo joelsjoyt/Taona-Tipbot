@@ -5,18 +5,9 @@ Features:
 - Tipbot for any coin running the bitcoind client.
     - Help message `!tip`.
 - Dynamic plugin loading with permission support.
-- **out of the box Supported Coins**
-    - Dogecoin (DOGE)
-    - Ravencoin (RVN)
-    - LBRY Credits (LBC)
-    - Uniform Fiscal Object (UFO)
-    - ~~Proton (PROTON)~~ Phase(PHASE)
-    - Phoenixcoin (PXC)
-    - Feathercoin (FTC)
-    - Vertical (VTL)
-    - Neblio (NEBL)
-    - Xuez (XUEZ)
-    - SparksPay (SPK)
+
+    - Taona Coin (TNA)
+    
 
 
 ## Create a Bot
