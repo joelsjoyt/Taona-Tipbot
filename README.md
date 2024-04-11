@@ -1,3 +1,5 @@
+## This Repo is no longer actively maintained ##
+
 # Bot for Discord communities to facilitate crypto coin tipping!
 (This README will be updated along with bot updates)
 
